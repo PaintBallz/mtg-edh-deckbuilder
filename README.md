@@ -36,5 +36,5 @@ python starter_commander_builder.py \
 
     --commander "Atraxa, Praetors' Voice"
 ```
-SSS
+
 Tested with Python 3.9+
